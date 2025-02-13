@@ -1,5 +1,7 @@
 Color guessing game
+
 Sets an RGB color and have 6 colours to pick from, you need to i
+
 Identify the RGB colour by clicking on the correct circle. 
 
 
